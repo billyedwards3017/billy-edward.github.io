@@ -1,0 +1,192 @@
+.album1{
+
+    background:  url('Assets/gorillazalbumcovers.jpg');
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    right: 80%;
+    top: 8%;
+
+
+}
+.album2{
+
+    background:  url('Assets/demondayzheads.jpg') ;
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    right: 60%;
+    top: 8%;
+
+}
+.album3{
+
+    background:  url('Assets/plasticbeachalbumcovers.jpg') ;
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    right: 40%;
+    top: 8%;
+
+}
+.album4 {
+
+
+    background: url('Assets/humanzbands.jpg');
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    right: 20%;
+    top: 8%;
+}
+.album5{
+    background:  url('Assets/nownowcovers.jpg') ;
+    height:100%;
+    position: absolute;
+    right: 0%;
+    width: 20%;
+    top: 8%;
+}
+.header{
+    position: fixed;
+    left: 45%;
+    height: 8%;
+    width: 100%;
+    top: 0.5%;
+}
+#hamburger{
+    position: fixed;
+    /*left: 0%;
+    top:0.5%;*/
+}
+#Balbum1{
+    padding: 3%;
+    position: absolute;
+    bottom:20%;
+    left:30%;
+    background-color: darkolivegreen;
+    border: none;
+    color:black;
+    font-size: 107%;
+}
+
+#Balbum2{
+    padding: 3%;
+    position: absolute;
+    bottom:20%;
+    left:30%;
+    background-color: blueviolet;
+    border: none;
+    color: darkgreen;
+    font-size: 107%;
+}
+
+#Balbum3{
+
+    padding: 3%;
+    position: absolute;
+    bottom:20%;
+    left:30%;
+    background-color: blue;
+    border: none;
+    color: white;
+    font-size: 107%;
+}
+
+#Balbum4{
+    padding: 3%;
+    position: absolute;
+    bottom:20%;
+    left:30%;
+    background-color: mediumvioletred;
+    border: none;
+    color: chartreuse;
+    font-size: 107%;
+}
+
+#Balbum5{
+
+    padding: 3%;
+    position: absolute;
+    bottom:20%;
+    left:30%;
+    background-color: aquamarine;
+    border: none;
+    color: white;
+    font-size: 107%;
+}
+#Album1Name{
+
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 40%;
+    left: 25%;
+    position: absolute;
+    font-size: 108%;
+    padding: 3%;
+    text-align: center;
+    color: green;
+
+}
+#Album2Name{
+
+    background-color: darkblue;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 40%;
+    left: 25%;
+    position: absolute;
+    font-size: 108%;
+    padding: 3%;
+    text-align: center;
+    color: white;
+
+}
+#Album3Name{
+
+    background-color: darkorange;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 40%;
+    left: 25%;
+    position: absolute;
+    font-size: 108%;
+    padding: 3%;
+    text-align: center;
+    color: pink;
+
+}
+#Album4Name{
+
+    background-color: goldenrod;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 40%;
+    left: 25%;
+    position: absolute;
+    font-size: 108%;
+    padding: 3%;
+    text-align: center;
+    color: chartreuse;
+
+}
+#Album5Name{
+
+    background-color: turquoise;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 40%;
+    left: 25%;
+    position: absolute;
+    font-size: 108%;
+    padding: 3%;
+    text-align: center;
+    color: deeppink;
+
+}
