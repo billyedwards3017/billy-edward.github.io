@@ -190,3 +190,16 @@
     color: deeppink;
 
 }
+.pagedetails{
+    background: url("Assets/Phase1Graffiti.jpg");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 8%;
+
+}
+#music{
+    position: absolute;
+    left:15%;
+    top: 20%;
+}
